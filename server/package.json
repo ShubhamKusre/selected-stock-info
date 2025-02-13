@@ -20,7 +20,8 @@
     "helmet": "^8.0.0",
     "mongoose": "^8.9.3",
     "mongoose-currency": "^0.3.0",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "yahoo-finance2": "^2.13.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
